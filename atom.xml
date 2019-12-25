@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.robin.plus</id>
     <title>Robin&apos;Blog</title>
-    <updated>2019-12-25T07:15:13.464Z</updated>
+    <updated>2019-12-25T07:21:18.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.robin.plus"/>
     <link rel="self" href="http://blog.robin.plus/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>http://blog.robin.plus/images/avatar.png</logo>
     <icon>http://blog.robin.plus/favicon.ico</icon>
     <rights>All rights reserved 2019, Robin&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Holle Blog]]></title>
+        <id>http://blog.robin.plus/post/holle-blog</id>
+        <link href="http://blog.robin.plus/post/holle-blog">
+        </link>
+        <updated>2019-12-25T07:19:37.000Z</updated>
+        <content type="html"><![CDATA[<p>I'm coming........</p>
+]]></content>
+    </entry>
 </feed>
